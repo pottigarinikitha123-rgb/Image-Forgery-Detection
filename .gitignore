@@ -1,0 +1,31 @@
+# Trained model weights (too large for GitHub)
+*.pth
+*.pt
+*.h5
+*.ckpt
+
+# Datasets and images
+*.zip
+data/
+dataset/
+*.png
+*.jpg
+*.jpeg
+
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.ipynb_checkpoints/
+venv/
+.venv/
+env/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# OS / editor
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/

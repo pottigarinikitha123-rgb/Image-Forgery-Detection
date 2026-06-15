@@ -1,0 +1,10 @@
+torch
+torchvision
+timm
+grad-cam
+kagglehub
+scikit-learn
+matplotlib
+numpy
+Pillow
+tqdm
